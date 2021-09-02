@@ -26,28 +26,16 @@
   </a>
 </p>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre-📚)
-   * [Como executar](#Como-executar-🚀)
-      * [Pre Requisitos](#Pré-requisitos-📔)
-      * [Rodando](#Rodando-👨‍💻)
-   * [Como contribuir](#Como-contribuir-🧐)
-      * [Passos](#Passos-para-contribuir)
-   * [Licença](#Licenca-📝)
-<!--te-->
+## Sobre 📚
+<p align="left">Este projeto é voltado para estudar a matéria de Introdução à Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
 
-## Sobre📚
-<p align="left">Este projeto é voltado para estudos da matéria de Introdução a Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
+## Como executar 🚀
 
-## Como executar🚀
-
-### Pré-requisitos📔
+### Pré-requisitos 📔
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com) e [Python](https://www.python.org/). Além disso é bom ter um editor de código como o próprio IDLE que já vem instalado com o Python ou o [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows) da Jetbrains.
 
-### Rodando👨‍💻
+### Rodando 👨‍💻
 
 ```bash
 # Clone este repositório
@@ -62,14 +50,17 @@ $ cd fundamentos
 # Rode o programa
 $ python helloWorld.py
 ```
+> Para usar o comando `python` no terminal é necessário colocar o caminho da instalação do python na variável de ambiente PATH e reiniciar o prompt de comando. Mais informações [aqui](https://dicasdepython.com.br/resolvido-python-nao-e-reconhecido-como-um-comando-interno/).
 
-## Como contribuir🧐
+## Como contribuir 🧐
 
-Existem 4 formas de contribuir para o projeto: criar uma programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você ache necessária. 
+Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária. 
 
 **Observação 1**: sempre tente colocar um nome autoexplicativo para o arquivo do seu programa, seja o nome da aula, o nome do exercício ou do desafio, seguindo os exemplos mostrados anteriormente. 
 
 **Observação 2**: não se esqueça de comentar seu código para torná-lo mais fácil de entender para seus colegas de turma.
+
+**Observação 3**: coloque o seu programa na sua respectiva pasta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercicios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
 
 #### Passos para contribuir:
 
@@ -81,9 +72,11 @@ Existem 4 formas de contribuir para o projeto: criar uma programa que resume uma
 6. Submeta suas alterações para aprovação por meio de um **pull request**
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## Licença📝 
+## Licença 📝 
 
 Este projeto esta sobe a licença MIT.
+
+## 
 
 Inspiração de readme: projeto [Ecoleta](https://github.com/tgmarinho/Ecoleta)
 
