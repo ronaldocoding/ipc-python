@@ -38,16 +38,16 @@ Tabela de conteúdos
    * [Licença](#Licenca-📝)
 <!--te-->
 
-## Sobre 📚
+## Sobre📚
 <p align="left">Este projeto é voltado para estudos da matéria de Introdução a Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
 
-## Como executar 🚀
+## Como executar🚀
 
-### Pré-requisitos 📔
+### Pré-requisitos📔
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com) e [Python](https://www.python.org/). Além disso é bom ter um editor de código como o próprio IDLE que já vem instalado com o Python ou o [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows) da Jetbrains.
 
-### Rodando 👨‍💻
+### Rodando👨‍💻
 
 ```bash
 # Clone este repositório
@@ -63,7 +63,7 @@ $ cd fundamentos
 $ python helloWorld.py
 ```
 
-## Como contribuir 🧐
+## Como contribuir🧐
 
 Existem 4 formas de contribuir para o projeto: criar uma programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você ache necessária. 
 
@@ -81,7 +81,7 @@ Existem 4 formas de contribuir para o projeto: criar uma programa que resume uma
 6. Submeta suas alterações para aprovação por meio de um **pull request**
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## Licença 📝 
+## Licença📝 
 
 Este projeto esta sobe a licença MIT.
 
