@@ -14,6 +14,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/ronaldocoding/ipc-python/stargazers">
      
+  <img alt="Fork" src="https://img.shields.io/github/forks/ronaldocoding/ipc-python?style=social">
+     
   <img alt="Follow" src="https://img.shields.io/github/followers/ronaldocoding?style=social">
      
   <img alt="Watchers" src="https://img.shields.io/github/watchers/ronaldocoding/ipc-python?style=social">
