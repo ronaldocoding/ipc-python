@@ -26,16 +26,33 @@
   </a>
 </p>
 
-## Sobre o projeto 📚
-<p align="left">Este projeto é voltado para estudos da matéria de Introdução a Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#sobre)
+   * [Como executar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Rodando](#combo)
+   * [Como contribuir](#testes)
+      * [Passos](#pre-requisitos)
+   * [Licença](#tecnologias)
+<!--te-->
 
-## Como executar o projeto 🚀
+<p align="left">
+  <a href="#sobre">Sobre 📚</a>
+  Este projeto é voltado para estudos da matéria de Introdução a Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.
+</p>
+
+<!--## Sobre 📚
+<p align="left">Este projeto é voltado para estudos da matéria de Introdução a Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>-->
+
+## Como executar 🚀
 
 ### Pré-requisitos 📔
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com) e [Python](https://www.python.org/). Além disso é bom ter um editor de código como o próprio IDLE que já vem instalado com o Python ou o [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows) da Jetbrains.
 
-### Rodando o projeto 👨‍💻
+### Rodando 👨‍💻
 
 ```bash
 # Clone este repositório
@@ -51,7 +68,7 @@ $ cd fundamentos
 $ python helloWorld.py
 ```
 
-### Como contribuir para o projeto 🧐
+### Como contribuir 🧐
 
 Existem 4 formas de contribuir para o projeto: criar uma programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você ache necessária. 
 
