@@ -29,13 +29,13 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Como executar](#Como-executar)
-      * [Pre Requisitos](#Pré-requisitos)
-      * [Rodando](#Rodando)
-   * [Como contribuir](#Como-contribuir)
+   * [Sobre](#Sobre-📚)
+   * [Como executar](#Como-executar-🚀)
+      * [Pre Requisitos](#Pré-requisitos-📔)
+      * [Rodando](#Rodando-👨‍💻)
+   * [Como contribuir](#Como-contribuir-🧐)
       * [Passos](#Passos-para-contribuir)
-   * [Licença](#Licenca)
+   * [Licença](#Licenca-📝)
 <!--te-->
 
 ## Sobre 📚
