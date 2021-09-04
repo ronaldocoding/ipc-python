@@ -3,8 +3,6 @@
 # IPC - Python 💻🐍
 
 <p align="left">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ronaldocoding/ipc-python?color=%2304D361">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ronaldocoding/ipc-python">
 
   <a href="https://github.com/ronaldocoding/ipc-python/commits/main">
