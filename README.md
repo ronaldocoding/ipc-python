@@ -12,7 +12,10 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/ronaldocoding/ipc-python/stargazers">
+  
+  <img alt="Issues" src="https://img.shields.io/github/issues/ronaldocoding/ipc-python">
+  
+  <a href="https://github.com/ronaldocoding/ipc-python/stargazers">
      
   <img alt="Fork" src="https://img.shields.io/github/forks/ronaldocoding/ipc-python?style=social">
      
@@ -21,9 +24,7 @@
   <img alt="Watchers" src="https://img.shields.io/github/watchers/ronaldocoding/ipc-python?style=social">
      
   <img alt="Stargazers" src="https://img.shields.io/github/stars/ronaldocoding/ipc-python?style=social">
-     
-   <a href="https://www.twitter.com/ronaldocoding/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/follow/ronaldocoding?style=social">
+   
   </a>
   </a>
 </p>
