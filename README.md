@@ -31,6 +31,14 @@
 ## Sobre 📚
 <p align="left">Este projeto é voltado para estudar a matéria de Introdução à Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
 
+## Status 📈
+
+O projeto ainda está em **andamento**, abaixo seguem os percentuais concluídos de cada sessão:
+
+1. **Fundamentos**: `19%` (4/21)
+2. **Exercícios**: `5%` (3/58)
+3. **Desafios** `0,4%` (10/2260):
+
 ## Como executar 🚀
 
 ### Pré-requisitos 📔
@@ -56,23 +64,28 @@ $ python helloWorld.py
 
 ## Como contribuir 🧐
 
-Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária. 
+Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da Aula 04) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária.
 
-**Observação 1**: sempre tente colocar um nome autoexplicativo para o arquivo do seu programa, seja o nome da aula, o nome do exercício ou do desafio, seguindo os exemplos mostrados anteriormente. 
+Antes de contribuir, atente-se para algumas observações:
 
-**Observação 2**: não se esqueça de comentar seu código para torná-lo mais fácil de entender para seus colegas de turma.
+1. Sempre tente colocar um nome autoexplicativo para o arquivo do seu programa, seja o nome da aula, o nome do exercício ou do desafio, seguindo os exemplos mostrados anteriormente.
+2. Não se esqueça de comentar seu código para torná-lo mais fácil de entender para seus colegas de turma.
+3. coloque o seu programa na pasta correta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercicios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
+4. Por padrão nomeia-se pacotes em Python com letras minúsculas e se evita o uso de underline, tomo como exemplo o pacote `fundamentos`.
+5. Por outro lado, nomeia-se arquivos com letras minúsculas e usando undeline, por exemplo: `hello_world.py`.
+6. Por fim, no que se refere às funções e classes, usa-se letras minúsculas e underline para funções e o padrão CapWords para classes. Exemplo de função: `function_name`. Exemplo de classe: `MyClass`.
 
-**Observação 3**: coloque o seu programa na sua respectiva pasta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercicios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
+> Para mais informações sobre os padrões da linguagem, leia o [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
 #### Passos para contribuir:
 
 1. Faça um **fork** do projeto.
-2. Baixe o projeto na sua máquina, ou seja, faça um clone dele
-3. Faça suas alterações ou crie novos programas
-4. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-5. Envie as suas alterações para o repositório remoto: `git push origin my-feature`
-6. Submeta suas alterações para aprovação por meio de um **pull request**
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+2. Baixe o projeto na sua máquina, ou seja, faça um clone dele.
+3. Faça suas alterações ou crie novos programas.
+4. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`.
+5. Envie as suas alterações para o repositório remoto: `git push origin my-feature`.
+6. Submeta suas alterações para aprovação por meio de um **pull request**.
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
 ## Licença 📝 
 
