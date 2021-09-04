@@ -90,8 +90,31 @@ Antes de contribuir, atente-se para algumas observações:
 
 Este projeto esta sobe a licença MIT.
 
-## 
+## Contribuidores
 
-Inspiração de readme: projeto [Ecoleta](https://github.com/tgmarinho/Ecoleta)
+Obrigado especial aos contribuidores do projeto!
 
-Feito por Ronaldo Costa 😎🖖 [Entre em contato!](https://www.linkedin.com/in/ronaldocoding/)
+<table>
+    <tr>
+        <td align="center"><a href="github.com/tmmarquess"><img style="border-radius: 50%;" src="https://github.com/tmmarquess.png" width="100px;" alt=""/><br /><sub><b>Thiago Marques</b></sub></a><br /><a>👨‍🎓📚</a></td>
+        <td align="center"><a href="github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
+    </tr>
+</table>
+
+## Autor
+
+<a href="github.com/ronaldocoding">
+ <img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>Ronaldo Costa</b></sub></a>
+
+Feito por Ronaldo Costa 😎🖖 Entre em contato!
+
+<a href = "mailto:ronaldocosta.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ronaldocoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ronaldocoding" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/ronaldocoding" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+##
+
+> Inspiração de readme: projeto [Ecoleta](https://github.com/tgmarinho/Ecoleta)
