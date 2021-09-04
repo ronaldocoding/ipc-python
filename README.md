@@ -63,7 +63,7 @@ $ python helloWorld.py
 
 ## Como contribuir 🧐
 
-Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da Aula 06) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária.
+Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da aula 06) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária.
 
 Antes de contribuir, atente-se para algumas observações:
 
@@ -96,19 +96,19 @@ Obrigado especial aos contribuidores do projeto!
 
 <table>
     <tr>
-        <td align="center"><a href="github.com/tmmarquess"><img style="border-radius: 50%;" src="https://github.com/tmmarquess.png" width="100px;" alt=""/><br /><sub><b>Thiago Marques</b></sub></a><br /><a>👨‍🎓📚</a></td>
-        <td align="center"><a href="github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
+        <td align="center"><a href="https://github.com/tmmarquess"><img style="border-radius: 50%;" src="https://github.com/tmmarquess.png" width="100px;" alt=""/><br /><sub><b>Thiago Marques</b></sub></a><br /><a>👨‍🎓📚</a></td>
+        <td align="center"><a href="https://github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
     </tr>
 </table>
 
 ## Autor
 
-<a href="github.com/ronaldocoding">
+<a href="https://github.com/ronaldocoding">
  <img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/>
  <br />
  <sub><b>Ronaldo Costa</b></sub></a>
 
-Feito por Ronaldo Costa 😎🖖 Entre em contato!
+Feito por Ronaldo Costa 😎🖖. Entre em contato!
 
 <a href = "mailto:ronaldocosta.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ronaldocoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
