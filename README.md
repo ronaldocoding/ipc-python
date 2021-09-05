@@ -69,9 +69,9 @@ Antes de contribuir, atente-se para algumas observações:
 
 1. Sempre tente colocar um nome autoexplicativo para o arquivo do seu programa, seja o nome da aula, o nome do exercício ou do desafio, seguindo os exemplos mostrados anteriormente.
 2. Não se esqueça de comentar seu código para torná-lo mais fácil de entender para seus colegas de turma.
-3. coloque o seu programa na pasta correta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercicios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
+3. coloque o seu programa na pasta correta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercícios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
 4. Por padrão nomeia-se pacotes em Python com letras minúsculas e se evita o uso de underline, tomo como exemplo o pacote `fundamentos`.
-5. Por outro lado, nomeia-se arquivos com letras minúsculas e usando undeline, por exemplo: `hello_world.py`.
+5. Por outro lado, nomeia-se arquivos com letras minúsculas e usando *underline*, por exemplo: `hello_world.py`.
 6. Por fim, no que se refere às funções e classes, usa-se letras minúsculas e underline para funções e o padrão CapWords para classes. Exemplo de função: `function_name`. Exemplo de classe: `MyClass`.
 
 > Para mais informações sobre os padrões da linguagem, leia o [PEP 8](https://www.python.org/dev/peps/pep-0008/).
