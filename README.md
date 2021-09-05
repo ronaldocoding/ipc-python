@@ -1,6 +1,6 @@
 ![Alt text](/img/IPC-Python.png?raw=true "Banner")
 
-# IPC - Python 💻🐍
+# ipc - python 💻🐍
 
 <p align="left">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ronaldocoding/ipc-python">
@@ -28,7 +28,7 @@
 </p>
 
 ## Sobre 📚
-<p align="left">Este projeto é voltado para estudar a matéria de Introdução à Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com conteúdos, exercícios e desafios.</p>
+<p align="left">Este projeto é voltado ao estudo da matéria de Introdução à Programação de Computadores utilizando Python do curso de Sistemas de Informação da Escola Superior de Tecnologia da Universidade do Estado do Amazonas. Você vai poder contribuir com resumos de aulas, exercícios e desafios.</p>
 
 ## Status 📈
 
@@ -53,7 +53,7 @@ $ git clone https://github.com/ronaldocoding/ipc-python
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ipc-python
 
-# Acesse a pasta em que está o programa que quer rodar
+# Acesse a pasta em que está o programa que você quer rodar
 $ cd fundamentos
 
 # Rode o programa
@@ -63,16 +63,16 @@ $ python helloWorld.py
 
 ## Como contribuir 🧐
 
-Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da aula 06) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas de IPC como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária.
+Existem 4 formas de contribuir para o projeto: criar um programa que resume uma aula de IPC (a partir da aula 06) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/fundamentos/helloWorld.py), resolver um dos exercícios dos slides das aulas como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/exercicios/aula04/imposto.py), resolver um dos desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/) como [esse](https://github.com/ronaldocoding/ipc-python/blob/main/desafios/extremelyBasic.py) ou fazer alguma correção ou melhoria que você achar necessária.
 
 Antes de contribuir, atente-se para algumas observações:
 
 1. Sempre tente colocar um nome autoexplicativo para o arquivo do seu programa, seja o nome da aula, o nome do exercício ou do desafio, seguindo os exemplos mostrados anteriormente.
 2. Não se esqueça de comentar seu código para torná-lo mais fácil de entender para seus colegas de turma.
-3. coloque o seu programa na pasta correta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercicios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
-4. Por padrão nomeia-se pacotes em Python com letras minúsculas e se evita o uso de underline, tomo como exemplo o pacote `fundamentos`.
-5. Por outro lado, nomeia-se arquivos com letras minúsculas e usando undeline, por exemplo: `hello_world.py`.
-6. Por fim, no que se refere às funções e classes, usa-se letras minúsculas e underline para funções e o padrão CapWords para classes. Exemplo de função: `function_name`. Exemplo de classe: `MyClass`.
+3. Coloque o seu programa na pasta correta: `/fundamentos/`, os resumo das aulas, `/exercicios/`, os exercícios dos slides e `/desafios/`, os desafios do site [URI Online Judge](https://www.urionlinejudge.com.br/).
+4. Por padrão nomeia-se pacotes em Python com letras minúsculas e se evita o uso de underline. Tome como exemplo o pacote `fundamentos`.
+5. Por outro lado, nomeia-se arquivos com letras minúsculas e, se necessário, usa-se underline. Exemplo: `hello_world.py`.
+6. Por fim, no que se refere às funções e às classes, usa-se letras minúsculas e, se necessário, underline para funções e o padrão CapWords para classes. Exemplo de função: `function_name`. Exemplo de classe: `MyClass`.
 
 > Para mais informações sobre os padrões da linguagem, leia o [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
@@ -92,7 +92,7 @@ Este projeto esta sob a licença MIT.
 
 ## Contribuidores
 
-Obrigado especial aos contribuidores do projeto!
+Esses são os contribuidores do projeto:
 
 <table>
     <tr>
