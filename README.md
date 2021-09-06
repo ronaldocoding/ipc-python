@@ -88,7 +88,7 @@ Antes de contribuir, atente-se para algumas observações:
 
 ## Licença 📝 
 
-Este projeto esta sob a licença MIT.
+Este projeto está sob a licença MIT.
 
 ## Contribuidores
 
