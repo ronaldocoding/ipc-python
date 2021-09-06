@@ -32,4 +32,4 @@ print("TRIANGULO: {:.3f}".format(atriangulo)) # {:.3f} define 3 casas decimais n
 print("CIRCULO: {:.3f}".format(acirculo))
 print("TRAPEZIO: {:.3f}".format(atrapezio))
 print("QUADRADO: {:.3f}".format(aquadrado))
-print("TRIANGULO: {:.3f}".format(aretangulo))
+print("RETANGULO: {:.3f}".format(aretangulo))
