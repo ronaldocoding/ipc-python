@@ -93,7 +93,8 @@ Esses são os contribuidores do projeto:
         <td align="center"><a href="https://github.com/tmmarquess"><img style="border-radius: 50%;" src="https://github.com/tmmarquess.png" width="100px;" alt=""/><br /><sub><b>Thiago Marques</b></sub></a><br /><a>👨‍🎓📚</a></td>
         <td align="center"><a href="https://github.com/gabrielSantosLima"><img style="border-radius: 50%;" src="https://github.com/gabrielSantosLima.png" width="100px;" alt=""/><br /><sub><b>Gabriel Santos Lima</b></sub></a><br /><a>👨‍🎓📚</a></td>
         <td align="center"><a href="https://github.com/melinnediniz"><img style="border-radius: 50%;" src="https://github.com/melinnediniz.png" width="100px;" alt=""/><br /><sub><b>Melinne Diniz</b></sub></a><br /><a>👨‍🎓📚</a></td>
-        <td align="center"><a href="https://github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
+        <td align="center"><a href="https://github.com/LarissaRC"><img style="border-radius: 50%;" src="https://github.com/LarissaRC.png" width="100px;" alt=""/><br /><sub><b>Larissa Carvalho</b></sub></a><br /><a>👨‍🎓📚</a></td>
+      <td align="center"><a href="https://github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
     </tr>
 </table>
 
