@@ -18,9 +18,7 @@
   <img alt="Watchers" src="https://img.shields.io/github/watchers/ronaldocoding/ipc-python?style=social">
      
   <img alt="Stargazers" src="https://img.shields.io/github/stars/ronaldocoding/ipc-python?style=social">
-   
-  </a>
-  </a>
+
 </p>
 
 ## Sobre 📚
@@ -32,7 +30,7 @@ O projeto ainda está em **andamento**, abaixo seguem os percentuais concluídos
 
 1. **Fundamentos**: `19%` (4/21)
 2. **Exercícios**: `5%` (3/58)
-3. **Desafios** `0,4%` (11/2260):
+3. **Desafios** `0,5%` (12/2260):
 
 ## Como executar 🚀
 
@@ -94,6 +92,7 @@ Esses são os contribuidores do projeto:
     <tr>
         <td align="center"><a href="https://github.com/tmmarquess"><img style="border-radius: 50%;" src="https://github.com/tmmarquess.png" width="100px;" alt=""/><br /><sub><b>Thiago Marques</b></sub></a><br /><a>👨‍🎓📚</a></td>
         <td align="center"><a href="https://github.com/gabrielSantosLima"><img style="border-radius: 50%;" src="https://github.com/gabrielSantosLima.png" width="100px;" alt=""/><br /><sub><b>Gabriel Santos Lima</b></sub></a><br /><a>👨‍🎓📚</a></td>
+        <td align="center"><a href="https://github.com/melinnediniz"><img style="border-radius: 50%;" src="https://github.com/melinnediniz.png" width="100px;" alt=""/><br /><sub><b>Melinne Diniz</b></sub></a><br /><a>👨‍🎓📚</a></td>
         <td align="center"><a href="https://github.com/ronaldocoding"><img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/><br /><sub><b>Ronaldo Costa</b></sub></a><br /><a>👨‍🎓📚</a></td>
     </tr>
 </table>
