@@ -84,7 +84,7 @@ Antes de contribuir, atente-se para algumas observações:
 
 Este projeto está sob a licença MIT.
 
-## Contribuidores
+## Contribuidores 🤝
 
 Esses são os contribuidores do projeto:
 
@@ -98,7 +98,7 @@ Esses são os contribuidores do projeto:
     </tr>
 </table>
 
-## Autor
+## Autor 🤓
 
 <a href="https://github.com/ronaldocoding">
  <img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/>
