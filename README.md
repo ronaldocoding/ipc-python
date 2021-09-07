@@ -29,8 +29,8 @@
 O projeto ainda está em **andamento**, abaixo seguem os percentuais concluídos de cada seção:
 
 1. **Fundamentos**: `19%` (4/21)
-2. **Exercícios**: `5%` (3/58)
-3. **Desafios** `0,5%` (12/2260):
+2. **Exercícios**: `27%` (16/58)
+3. **Desafios** `0,8%` (20/2260)
 
 ## Como executar 🚀
 
