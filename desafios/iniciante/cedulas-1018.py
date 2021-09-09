@@ -32,7 +32,7 @@ for index in range(7):                        #laço de repeticão que roda enqu
 
     valor_pre_calculado = valor_pre_calculado + ncedula[index] * cedula[index]  #auxilia a calcular somente o dinheiro que já n foi calculado (tranformado em inteiro na ncedula)
 
-    print(" {} nota(s) de R$ {},00".format(ncedula[index], cedula[index]))
+    print("{} nota(s) de R$ {},00".format(ncedula[index], cedula[index]))
 
 '''
 Caso ainda esteja dificil de entender o laço, tenho outro código fonte que não uso for
